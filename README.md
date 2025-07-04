@@ -19,7 +19,7 @@ This is a simple and cheerful birthday flyer designed using HTML and CSS. It can
 
 1. Clone or download this repository.
 2. Open `index.html` in your browser to view the flyer.
-3. Edit the text or styling to fit your celebration theme.
+3. Edit the styling to fit your celebration theme.
 
 ## 🎂 Credits
 
